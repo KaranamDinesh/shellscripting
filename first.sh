@@ -1,1 +1,1 @@
-echo -e "welcome to shellscripting\n\n\n\t\e[3;3mhello world\e[0m"
+echo -e "welcome to shellscripting\n\n\n\t\e[3;1mhello world\e[0m"
