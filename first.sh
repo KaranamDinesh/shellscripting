@@ -1,1 +1,1 @@
-echo dinesh
+echo -e "welcome to shellscripting\n\thello world"
