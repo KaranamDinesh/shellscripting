@@ -1,5 +1,5 @@
 a = $1
-if [$a==0];then
+if [$a -ne 0];then
 {
   echo a is equal to zero
 }
