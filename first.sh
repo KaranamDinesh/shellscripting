@@ -1,3 +1,4 @@
+#!/bin/bash
 a = $1
 if [$a -ne 0];then
 
