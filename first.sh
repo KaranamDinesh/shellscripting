@@ -1,1 +1,9 @@
-echo -e "welcome to shellscripting\n\n\n\t\e[4;1;31mhello world\e[0m"
+a = $1
+if [$a==0]then;
+{
+  echo a is equal to zero
+}
+else
+  {
+    echo a is not equal to zero
+  }
