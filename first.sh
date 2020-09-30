@@ -1,7 +1,8 @@
 #!/bin/bash
 a=$1
-if[ $a -gt 10 ];then
-  echo a is equal to zero
+
+if [ $a -gt 10 ]; then
+  echo a is greater than 10
 else
-  echo a is not equal to zero
+  echo a is less than or equal to 10
 fi
